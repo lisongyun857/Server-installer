@@ -2,7 +2,7 @@
 # 服务器安装脚本管理器 v1.0
 # 仓库地址: https://gitee.com/li-songyun666/Server_installer
 
-BASE_URL="https://gitee.com/li-songyun666/Server_installer/raw/master/scripts"
+BASE_URL="https://github.com/li-songyun666/Server-installer/raw/master/scripts"
 
 # 清理屏幕
 clear
